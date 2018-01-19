@@ -1,0 +1,1 @@
+In this program using OpenGL with C, IDE used Visual Studio, created a solar system. The parameters of the distances are not set to scale, however the time for each planet to orbit the sun is set to scale. 
