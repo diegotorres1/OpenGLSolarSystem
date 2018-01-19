@@ -1,0 +1,18 @@
+﻿  SunAndEarth.c
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(6): warning C4005: 'WIN32_LEAN_AND_MEAN': macro redefinition
+  c:\users\administrator\desktop\open gl\practice5sunearth\packages\nupengl.core.0.1.0.1\build\native\include\gl\freeglut_std.h(58): note: see previous definition of 'WIN32_LEAN_AND_MEAN'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(36): warning C4013: 'AllOrbits' undefined; assuming extern returning int
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(36): warning C4047: '=': 'Coords *' differs in levels of indirection from 'int'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(37): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(104): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(112): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(134): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(136): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(137): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(139): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(140): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(141): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(142): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(143): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\open gl\practice5sunearth\practice5sunearth\sunandearth.c(208): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+  Practice5SunEarth.vcxproj -> C:\Users\Administrator\Desktop\Open Gl\Practice5SunEarth\Debug\Practice5SunEarth.exe
